@@ -1,0 +1,7 @@
+C:\temp\projetos\Desafio_Plataforma_Ensino\Desafio_Plataforma_Ensino\bin\Debug\Desafio_Plataforma_Ensino.exe.config
+C:\temp\projetos\Desafio_Plataforma_Ensino\Desafio_Plataforma_Ensino\bin\Debug\Desafio_Plataforma_Ensino.exe
+C:\temp\projetos\Desafio_Plataforma_Ensino\Desafio_Plataforma_Ensino\bin\Debug\Desafio_Plataforma_Ensino.pdb
+C:\temp\projetos\Desafio_Plataforma_Ensino\Desafio_Plataforma_Ensino\obj\Debug\Desafio_Plataforma_Ensino.csproj.AssemblyReference.cache
+C:\temp\projetos\Desafio_Plataforma_Ensino\Desafio_Plataforma_Ensino\obj\Debug\Desafio_Plataforma_Ensino.csproj.CoreCompileInputs.cache
+C:\temp\projetos\Desafio_Plataforma_Ensino\Desafio_Plataforma_Ensino\obj\Debug\Desafio_Plataforma_Ensino.exe
+C:\temp\projetos\Desafio_Plataforma_Ensino\Desafio_Plataforma_Ensino\obj\Debug\Desafio_Plataforma_Ensino.pdb
